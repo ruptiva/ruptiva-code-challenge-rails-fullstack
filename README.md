@@ -89,7 +89,7 @@ O sistema de login e os demais endpoints devem ser documentados.
 
 Utilize postman, apiary, swagger, blueprint ou alguma ferramenta para te auxiliar nesta tarefa.
 
-#### Front
+## Frontend
 Desenvolver uma interface com Rails para consumir a API construída. O desafio é livre, então fique à vontade para usar suas ferramentas preferidas.
 
 ## Entrega
