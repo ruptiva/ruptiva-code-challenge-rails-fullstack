@@ -1,4 +1,4 @@
-# Ruptiva - Code Challenge Fullstack
+# Ruptiva - Code Challenge Fullstack Rails
 
 ## Introdução
 
